@@ -5,6 +5,7 @@ go 1.17
 require (
 	github.com/go-redis/redis/v8 v8.11.3
 	github.com/jackc/pgx/v4 v4.13.0
+	github.com/streadway/amqp v1.0.0
 	gopkg.in/mail.v2 v2.3.1
 )
 
